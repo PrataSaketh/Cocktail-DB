@@ -1,0 +1,19 @@
+.root {
+  width: 100%;
+  bottom: 0px;
+  height: 60px;
+  left: 0;
+  /* background-color: rgb(207, 76, 43); */
+  /* background-color: #2f4f4f; */
+  background-color: #e57373;
+  position: fixed !important;
+  z-index: 1;
+  justify-content: center;
+  margin-top: 400px;
+}
+/* .title {
+  padding: 20px; 
+  margin-top: 40px;
+  left: 0;
+  justify-content: "center";
+} */
